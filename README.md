@@ -3,7 +3,6 @@
 
  🌱 I’m currently learning Java
  📫 How to reach me: huajiaohuixiang@foxmail.com
-![Metrics](https://metrics.lecoq.io/huajiaohuixiang)
 <!-- <p>
     <img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=huajiaohuixiang&layout=compact&langs_count=10&show_icons=true&locale=en"
