@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
- 🌱 I’m currently learning Java
+ 🌱 I’m currently learning Java <br/>
  📫 How to reach me: huajiaohuixiang@foxmail.com
 <!-- <p>
     <img align="left"
